@@ -2,7 +2,7 @@ import React from 'react'
 import FirstSection from './FirstSection';
 import Landing_page from './Landing_page';
 
-import "./app.css"
+
 import SecondSection from './SecondSection';
 import ThirdSection from './ThirdSection';
 import NumberBar from './NumberBar';
