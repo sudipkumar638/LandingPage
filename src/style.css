@@ -1,0 +1,32 @@
+.logoimg {
+  max-height: 60px;
+  max-width: 170px;
+  object-fit: contain;
+}
+
+.navmenu {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1px;
+  font-style: normal;
+  font-family: "Poppins", sans-serif;
+  color: rgb(143, 138, 138);
+}
+
+.buttn {
+  height: 40px;
+  width: 120px;
+  font-size: 17px;
+  border-radius: 10px;
+
+  border: 1px solid black;
+  text-align: center;
+}
+.buttn a {
+  text-decoration: none;
+  color: black;
+}
+.buttn .freetrial {
+  text-decoration: none;
+  color: rgb(255, 245, 245);
+}

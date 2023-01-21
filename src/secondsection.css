@@ -1,0 +1,18 @@
+.homeimg img {
+  height: 380px;
+  width: 500px;
+}
+.secondpara {
+  line-height: 28px;
+  color: grey;
+}
+
+.numtag {
+  height: 40px;
+  width: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  background-color: rgb(7, 154, 86);
+}

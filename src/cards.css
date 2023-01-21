@@ -1,0 +1,76 @@
+.card1 {
+  height: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card2 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card3 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card4 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card5 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card6 {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardblock {
+  background-color: rgb(236, 246, 251);
+}
+
+.realcard {
+  height: 250px;
+  width: 400px;
+
+  border-radius: 10px;
+  padding: 20px;
+  line-height: 25px;
+}
+
+.realcard p {
+  color: grey;
+}
+.realcard h5 {
+  font-weight: 1000;
+}
+
+.c1 {
+  background-color: rgb(242, 255, 142);
+}
+.c2 {
+  background-color: rgb(215, 178, 252);
+}
+.c3 {
+  background-color: rgb(201, 246, 251);
+}
+.c4 {
+  background-color: rgb(188, 249, 165);
+}
+.c5 {
+  background-color: rgb(225, 183, 246);
+}
+.c6 {
+  background-color: rgb(249, 172, 172);
+}

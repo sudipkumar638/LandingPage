@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import FirstSection from './FirstSection';
+import Landing_page from './Landing_page';
 
-function App() {
+import "./app.css"
+import SecondSection from './SecondSection';
+import ThirdSection from './ThirdSection';
+import NumberBar from './NumberBar';
+import Cards from './Cards';
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container-fluid'>
+      <Landing_page></Landing_page>
+      <FirstSection></FirstSection>
+      <SecondSection></SecondSection>
+      <ThirdSection></ThirdSection>
+      <NumberBar></NumberBar>
+      <Cards></Cards>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

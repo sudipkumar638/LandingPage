@@ -1,0 +1,9 @@
+.thirdimg img {
+  border-radius: 15px;
+  height: 400px;
+  margin-top: 60px !important;
+  object-fit: cover;
+}
+.thirdsection {
+  background-color: rgb(236, 246, 251);
+}

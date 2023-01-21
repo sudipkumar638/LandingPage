@@ -1,0 +1,33 @@
+.sideimage {
+  max-width: 700px;
+  max-height: 900px;
+  object-fit: cover;
+}
+.fheading {
+  color: grey;
+}
+.realheading {
+  font-weight: 1000;
+  line-height: 50px;
+}
+.realheading span {
+  color: rgb(7, 154, 86);
+}
+.texting p {
+  color: grey;
+}
+
+.fbutton {
+  height: 55px;
+  width: 200px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 40px;
+  background-color: black;
+}
+.fbutton a {
+  text-decoration: none;
+  color: white;
+}

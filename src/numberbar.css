@@ -1,0 +1,8 @@
+.numbar h1 {
+  font-weight: bolder;
+  color: rgb(223, 134, 0);
+}
+.numbar p {
+  font-size: 13px;
+  color: grey;
+}
